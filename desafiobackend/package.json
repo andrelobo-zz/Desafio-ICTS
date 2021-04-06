@@ -1,0 +1,29 @@
+{
+  "name": "desafiobackend",
+  "version": "1.0.0",
+  "description": "Nodejs Reactjs RestAPI MySQL Desafio ICTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: sem teste especificado\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrelobo/icts"
+  },
+  "keywords": [
+    "nodejs",
+    "reactjs",
+    "crud",
+    "mysql"
+  ],
+  "author": "https://andrelobo.github.io",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}

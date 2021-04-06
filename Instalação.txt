@@ -1,0 +1,23 @@
+1. Criar banco desafio, com usuário e senha e inserir essas configurações no arquivo .env na raiz da pasta desafiobackend
+
+
+
+2. Na pasta desafiobackend:
+
+cd desafiobackend
+
+yarn para instalar as dependências
+
+yarn start para executar o server
+
+
+3. Na pasta desafio frontend:
+
+cd desafiofrontend
+
+yarn para instalar as dependências
+
+yarn start para executar frontend
+
+
+Ir em lista de compras e inserir compra, alguns produtos já estarão no banco.
